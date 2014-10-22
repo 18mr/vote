@@ -41,3 +41,6 @@ Rock the Vote is the nation’s largest organization engaging and building the p
 ![clearjubileelogo_nothe_small2](https://cloud.githubusercontent.com/assets/8837586/4730964/435f88f6-59a3-11e4-83dd-97bca054225f.png)
 ##
 ![slanteyelogo](https://cloud.githubusercontent.com/assets/8837586/4730988/1a5e5670-59a4-11e4-8944-f017499a59ca.png)
+##
+![napaheader](https://cloud.githubusercontent.com/assets/8837586/4731029/f6ece386-59a4-11e4-804e-7d693018efc2.png)
+
