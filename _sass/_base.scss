@@ -38,7 +38,7 @@ body {
 	line-height: 1.231;
     font-weight: 300;
     color: $text-color;
-    background-image: $background-image;
+    background-color: $the-beige;
 }
 
 /**
@@ -123,11 +123,30 @@ h2 {
 p {
 	text-align: justify;
 	padding-right: 10px;
+	font-size: 14px;
+	line-height: 2.14em;
 }
 
 .caption {
 	font-size: .8em;
 	font-style: italic;
+}
+
+.featured-post {
+	border-bottom: 1px lighten($the-gray, 50%) solid;
+	margin-bottom: $spacing-unit / 2;
+	
+	h1 {
+		text-align: center;
+		font-size: 3.5em;
+	}
+	
+	h3 {
+		font-size: 2.5em;
+		text-transform: uppercase;
+		text-align: center;
+		color: $the-pink;
+	}
 }
 
 /**
