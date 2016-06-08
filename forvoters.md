@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: '#MyAAPIVote | Voter Registration'
 menutitle: 'Voter Registration'
 permalink: /voters/

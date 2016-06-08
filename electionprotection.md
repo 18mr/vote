@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Election Protection'
+title: '#MyAAPIVote | Election Protection'
 menutitle: 'Election Protection'
 permalink: /electionprotection/
 weight: 6

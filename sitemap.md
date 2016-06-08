@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: post
 title: 'Site Map'
-menutitle: ''
+menutitle: 'Site Map'
 permalink: /sitemap/
 weight: 7
 ---
