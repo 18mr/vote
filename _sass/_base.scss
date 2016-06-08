@@ -154,7 +154,7 @@ p {
  */
 a {
     color: $brand-color;
-    text-decoration: none;
+    text-decoration: underline;
 
     &:hover {
         color: $text-color;

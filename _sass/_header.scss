@@ -80,7 +80,7 @@ header {
 		margin-left: 90px;
 		@include bsizing(border-box);
 		padding: 5px;
-	
+		
 		h3 {
 			font-size: 21px;
 			margin-bottom: 0;
@@ -116,6 +116,10 @@ header {
 			&:hover {
 				@include fade-transition(background-color 500ms);
 				background-color: $the-pink;
+			}
+			
+			a {
+				text-decoration: none;
 			}
 		}
 	}

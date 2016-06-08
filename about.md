@@ -1,5 +1,5 @@
 ---
-layout: fullwidth
+layout: post
 title: 'About'
 menutitle: 'About'
 permalink: /about/

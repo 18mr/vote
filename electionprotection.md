@@ -3,7 +3,7 @@ layout: page
 title: 'Election Protection'
 menutitle: 'Election Protection'
 permalink: /electionprotection/
-weight: 4
+weight: 6
 ---
 ## Why Do We Need Election Protection?
 

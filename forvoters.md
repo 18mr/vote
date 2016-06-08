@@ -1,15 +1,19 @@
 ---
 layout: page
-title: 'For Voters'
-menutitle: 'For Voters'
+title: '#MyAAPIVote | Voter Registration'
+menutitle: 'Voter Registration'
 permalink: /voters/
-weight: 3
+weight: 2
 ---
 
-# Let's Get Ready for November 8
+# Let's Get Ready for November 8!
 
 Step 1. Find out if you're registered to vote.
+
 Step 2. Not registered? Register to vote.
+
 Step 3. Can't vote in person? You can still send in a mail-in ballot!
+
 Step 4. Get educated.
+
 Step 5. Vote!

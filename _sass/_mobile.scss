@@ -1,0 +1,173 @@
+/* Small Device */
+
+@media only screen 
+	and (max-width: 768px) {
+	
+	/* General */
+	
+	.wrapper {
+	}
+	
+	header {
+		#logo {
+			width: 131px;
+			float: none;
+			margin: auto;
+			
+			hgroup {
+		
+				h1 {
+					display: none;
+				}
+			
+				h2 {
+					display: none;
+				}
+			}
+		}
+		
+		#register-widget {
+			float: none;
+			margin: auto;
+			background-color: transparent;
+			border: lighten($the-gray, 50%) solid 1px;
+			margin-top: $spacing-unit / 2;
+			@include radius(10px);
+			height: auto;
+			
+			span {
+				width: 200px;
+				margin: 10px 40px;
+			}
+			
+			.desktop-only {
+				display: none;
+			}
+			
+			h3 {
+				font-size: 1.8em;
+			}
+			
+			h4 {
+				margin-top: 70px;
+			}
+		}
+	}
+	
+	nav#top-links {
+		
+		ul {
+		
+			li {
+				max-width: 100%;
+			}
+		}
+	}
+	
+	.page-content {
+		margin-top: 0;
+		padding-top: 0;
+	}
+	
+	.sidebar {
+		margin: auto;
+		float: none;
+	}
+	
+	.post {
+		float: none;
+		width: auto;
+		margin-top: $spacing-unit;
+	}
+	
+	#footer {
+		margin: 0 0 $spacing-unit 0;
+	}
+	
+	/* Homepage */
+	
+	.home {
+		width: 100%;
+		float: none;
+		margin-top: 0;
+	}
+	
+	.site-header {
+		height: auto;
+		
+		#top-links ul {
+			height: auto;
+			margin-top: 5px;
+			
+			li {
+				width: 100%;
+				border-right: 0;
+				border-left: 0;
+				margin-left: 0;
+				margin-top: 3px;
+				
+				&:first-child, &:last-child {
+					@include radius(0);
+				}
+				
+				a {
+					width: 100%;
+				}
+			}
+		}
+	}
+	
+	/* Petition Page */
+	
+	#can_embed_form {
+		
+		h4 {
+			text-transform: uppercase;
+		}
+
+		.entry-title {
+			text-transform: uppercase !important;
+			font-size: 35px;
+			line-height: 40px !important;
+			border-bottom: none !important;
+			padding-bottom: 0 !important;
+			font-family: $header-font-family;
+		}
+
+		input[type="submit"] {
+			background-color: $the-pink !important;
+			font-family: 'league-gothic';
+			font-size: 20px !important;
+			font-weight: 400 !important;
+			text-transform: uppercase;
+	
+			&:hover {
+				background-color: darken($the-pink, 25%) !important;
+			}
+		}
+	
+		#d_sharing {
+	
+			ul {
+				margin-left: 0;
+				color: $the-gray !important;
+			}
+		}
+  
+		#can_main_col {
+			float: none;
+		}
+	}
+}
+
+/* Medium Device */
+
+@media only screen 
+	and (max-width: 992px)
+	and (min-width: 769px) {
+
+	.home {
+		width: 100%;
+		float: none;
+	}
+}
