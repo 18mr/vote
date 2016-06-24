@@ -3,7 +3,6 @@ layout: post
 title: 'About'
 menutitle: 'About'
 permalink: /about/
-childcategory: 'about'
 weight: 5
 ---
 
