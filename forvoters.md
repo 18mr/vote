@@ -19,7 +19,7 @@ $(document).ready(function(){
 });
 </script>
 
-<iframe src="https://verify.vote.org" width="98%" marginheight="0" frameborder="0" id="frame3" scrollable="no" id="VDO-REG"></iframe>
+<iframe src="https://verify.vote.org/?partner=408186" width="98%" marginheight="0" frameborder="0" id="frame3" scrollable="no" id="VDO-REG"></iframe>
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/iframe-resizer/3.5.3/iframeResizer.min.js"></script>
 <script type="text/javascript">iFrameResize({ log:true, checkOrigin:false});</script>
 
@@ -35,7 +35,7 @@ $(document).ready(function(){
 });
 </script>
 
-<iframe src="https://register.vote.org" width="98%" marginheight="0" frameborder="0" id="frame1" scrollable ="no" id="VDO-RTV"></iframe>
+<iframe src="https://register.vote.org/?partner=408186" width="98%" marginheight="0" frameborder="0" id="frame1" scrollable ="no" id="VDO-RTV"></iframe>
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/iframe-resizer/3.5.3/iframeResizer.min.js" ></script>
 <script type="text/javascript">iFrameResize({ log:true, checkOrigin:false});</script>
 
@@ -51,7 +51,7 @@ $(document).ready(function(){
 });
 </script>
 
-<iframe src="https://absentee.vote.org" width="98%" marginheight="0" frameborder="0" id="frame2" scrollable="no" id="VDO-VBM"></iframe>
+<iframe src="https://absentee.vote.org/?partner=408186" width="98%" marginheight="0" frameborder="0" id="frame2" scrollable="no" id="VDO-VBM"></iframe>
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/iframe-resizer/3.5.3/iframeResizer.min.js" ></script>
 <script type="text/javascript">iFrameResize({ log:true, checkOrigin:false});</script>
 
