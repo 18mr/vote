@@ -12,7 +12,3 @@ The right to vote is under attack. It's not just that the Supreme Court gutted t
 If you’ve witnessed or heard about any kind of voter disenfranchisement, we encourage you to tell us about it. We’re putting together this data to tell our ballot box stories and to illuminate the pressing need for voter protections – especially in the wake of the Supreme Court’s gutting of the Voting Rights Act. If you indicate that you’d like further assistance with your grievance, we’ll do our best to connect you with advocacy and grassroots groups who may assist you.
 
 We are committed to protecting the identity of all reporters and victims. We will only use anonymized data to map the location and offense. All personal information will be held in confidence and only shared with advocacy partners are the request of victims and reporters.
-
-## Reported Hotspots
-
-<iframe width="630" height="400" scrolling="no" frameborder="no" src="https://www.google.com/fusiontables/embedviz?q=select+col1+from+1CYtVvXfAynsATyN8yT5sTlzj6qtt4XqhAZ8d2sYW&amp;viz=MAP&amp;h=false&amp;lat=39.5033&amp;lng=-98.35&amp;t=1&amp;z=4&amp;l=col1&amp;y=2&amp;tmplt=2&amp;hml=GEOCODABLE"></iframe>
