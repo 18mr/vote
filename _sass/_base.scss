@@ -79,7 +79,10 @@ ul, ol {
 }
 
 li {
-    > ul,
+	font-size: 14px;
+	line-height: 2.14em;
+    
+	> ul,
     > ol {
          margin-bottom: 0;
     }

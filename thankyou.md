@@ -14,7 +14,7 @@ weight: 20
 
 <p>Use your badge to tell your friends and family why you vote -- you can fill in your issue below. Whether you vote for immigration reform, climate policy, or racial justice, let the world know that these issues are important to you as an AAPI.</p>
 
-<h3>Four Quick Steps to Create Your Badge:</h3>
+<h2>Four Quick Steps to Create Your Badge:</h2>
 
 <ul>
 	<lI>Add your selfie! Take a photo now or upload a photo</li>
