@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'About'
+title: '#MyAAPIVote | About'
 menutitle: 'About'
 permalink: /about/
 weight: 5
