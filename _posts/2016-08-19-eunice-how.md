@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Initiative 124: Seattle Protects Women is #MYAAPIVOTE"
-category: 
-tags:
+category: ourstories
+tags: 
 author: Eunice How
 featured-image: '/static/images/featured/2016-08-19-eunice-how.jpg'
 featured-alt-text: "Selfie of an Asian woman with #MyAAPIVote is Seattle Initiative 124 written at the bottom"
