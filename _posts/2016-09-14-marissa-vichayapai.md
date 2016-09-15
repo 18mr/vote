@@ -6,7 +6,7 @@ tags:
 author: Marissa Vichayapai
 featured-image: '/static/images/featured/2016-09-14-marissa-vichayapai.jpg'
 featured-alt-text: "Selfie of an Asian woman with #MyAAPIVote is for Resisting Erasure written at the bottom"
-tweet: "I vote to resist the erasure of my family, friends...and myself. #MyAAPIVote"
+tweet: "I vote to resist the erasure of my family, friends...and myself. %23MyAAPIVote"
 facebook: "There’s no denying that me and others like me are engulfed in this oppressive system. Everyday we resist the erasure of our intersecting identities and at the end of the day it’s easy to feel cynical about the electoral process. But I can’t turn a blind eye to the progress we’ve made, progress that has been landmarked by the wins of various civil liberties that has changed the lives of so many. These wins don’t fix the system. However, it does makes it easier to existing and even opens the possibility of thriving. #MyAAPIVote"
 blurb: "There’s no denying that me and others like me are engulfed in this oppressive system. Everyday we resist the erasure of our intersecting identities and at the end of the day it’s easy to feel cynical about the electoral process. But I can’t turn a blind eye to the progress we’ve made, progress that has been landmarked by the wins of various civil liberties that has changed the lives of so many. These wins don’t fix the system. However, it does makes it easier to existing and even opens the possibility of thriving."
 ---
