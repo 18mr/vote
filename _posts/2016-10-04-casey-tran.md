@@ -6,8 +6,8 @@ tags:
 author: Casey Tran
 featured-image: '/static/images/featured/2016-10-04-casey-tran.jpg'
 featured-alt-text: "Portrait of an Asian woman with a pink background. MYAAPIVOTE is for family is at the bottom of the image."
-tweet: "Casey Tran casts her AAPIVote for her family #MyAAPIVote"
-facebook: "Casey Tran casts her AAPIVote for her family #MyAAPIVote"
+tweet: "Casey Tran casts her vote for her family #MyAAPIVote"
+facebook: "Casey Tran casts her vote for her family #MyAAPIVote"
 blurb: "My parents came to America to escape war and seek opportunity. They didn’t come to America to witness a presidential candidate incite intolerance against refugees and immigrants."
 ---
 <strong>This November, I’m casting #MyAAPIVote for my refugee parents.</strong>
