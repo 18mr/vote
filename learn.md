@@ -1,6 +1,7 @@
 ---
 layout: post
 title: '#MyAAPIVote | Voter Education'
+pagetitle: "What You Need to Know"
 menutitle: 'Voter Education'
 permalink: /learn/
 weight: 3

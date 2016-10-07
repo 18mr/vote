@@ -27,31 +27,11 @@
 	
 		<nav id="top-links">
 			<ul>
-				{% for weight in (1..5) %}
-					{% for p in site.pages %}
-					{% if p.weight == weight %}
-						<li class="{{ p.childcategory }}-parent">
-							<a class="{% if p.url == page.url %}active{% endif %}"  href="{{ site:baseurl }}{{ p.url }}">
-								{{ p.menutitle }}
-							</a>
-							<ul class="{{ p.childcategory }}-dropdown dropdown visuallyhidden">
-								{% for tag in site.categories %}
-									{% if p.childcategory == tag[0] %}
-									{% assign pages_list = tag[1] %}
-									{% for post in pages_list %}
-									<li>
-										<a href="{{ site:baseurl }}{{ post.url }}">
-											{{ post.menutitle }}
-										</a>
-									</li>
-									{% endfor %}
-									{% endif %} <!-- category check if -->
-								{% endfor %} <!-- posts loop -->
-							</ul>
-						</li>
-					{% endif %} <!-- weight check if -->
-					{% endfor %} <!-- site.pages loop -->
-				{% endfor %} <!-- weight loop -->
+				<li><a href="/index.html">Home</a></li>
+				<li><a href="/voters">Voter Registration</a></li>
+				<li><a href="/learn">Voter Education</a></li>
+				<li><a href="https://www.votervox.org">VoterVOX</a></li>
+				<li><a href="/about">About</a></li>
 			</ul>
 		</nav>
 		
