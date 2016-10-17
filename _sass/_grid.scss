@@ -1,13 +1,14 @@
 ul.rig {
 	list-style: none;
 	font-size: 0px;
-	margin-left: -2.5%;
+	margin: 0;
+	margin-bottom: 15px;
 	
 	li {
 		display: inline-block;
 		padding: 10px;
 		background: none;
-		border: 1px solid #ddd;
+		border: 0;
 		font-size: 16px;
 		font-size: 1rem;
 		vertical-align: top;
@@ -15,7 +16,7 @@ ul.rig {
 		box-sizing: border-box;
 		-moz-box-sizing: border-box;
 		-webkit-box-sizing: border-box;
-		width: 30.84%;
+		width: 33.333333%;
 		
 		img {
 			max-width: 100%;
@@ -27,6 +28,15 @@ ul.rig {
 			font-style: italic;
 			text-align: center;
 		}
+	}
+}
+
+#orgs {
+	
+	background-color: white;
+
+	li {
+		width: 25%;
 	}
 }
 
