@@ -8,6 +8,12 @@ weight: 10
 
 ## The AAPIs for Civic Empowerment California State Voter Guide
 
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-34494870-7'}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
 <img class="banner" src="../static/images/props/sm-cover.jpg" alt="A banner reading 'AAPIs for Civic Empowerment 2016 Statewide Voter Guide #AAPIs4CE' featuring four stylized person icons with speech bubbles, each with a white checkmark in it.">
 
 This November, Asian American and Pacific Islander voters will play a key role in shaping the future of our country, our state and our neighborhoods. California is home to the largest Asian American and Pacific Islander population in the nation and we believe that an informed Asian American and Pacific Islander electorate will benefit our entire state.
@@ -47,10 +53,10 @@ __A lot of people will be voting this November and it is going to be a close ele
 		<p><b>No on Proposition 66: Death Penalty Procedures</b></p>
 		<p>Accelerates the death penalty process, increasing the risk that California will execute innocent people.</p>
 	</li>
-	<li><img src="../static/images/props/prop65.jpg">
-		<p><b>Yes on Proposition 65: Plastic Bag Fee</b></p>
+<!--	<li><img src="../static/images/props/prop65.jpg">
+		<p><b>No on Proposition 65: Plastic Bag Fee</b></p>
 		<p>Redirects revenues from the state ban on plastic bags at grocery stores to the Wildlife Conservation Board.</p>
-	</li>
+	</li> -->
 	<li><img src="../static/images/props/prop67.jpg">
 		<p><b>Yes on Proposition 67: Ban on Single-use Plastic Bags</b></p>
 		<p>Upholds the law restricting single-use carryout bags.</p>
@@ -143,3 +149,19 @@ __A lot of people will be voting this November and it is going to be a close ele
 		<p>South Asian Network</p>
 	</li>
 </ul>
+
+<div id="email-signup" class="mfp-hide mfp-with-anim">
+	<link href='https://actionnetwork.org/css/style-embed-whitelabel.css' rel='stylesheet' type='text/css' />
+	<script>window.yepnope || document.write('<script src="https://actionnetwork.org/includes/js/yepnope154-min.js"><\/script>');</script>
+	<script src='https://actionnetwork.org/widgets/v2/petition/aapis-for-civic-empowerment?format=js&source=widget&style=full'></script>
+	<div id='can-petition-area-aapis-for-civic-empowerment' style='width: 100%'><!-- this div is the target for our HTML insertion --></div>
+	<span>Signing up for AAPIs for Civic Empowerment email opts you in to occasional communication from 18MR.org and APEN.</span>
+</div>
+
+<div id="pop" class="mfp-hide mfp-with-anim">
+	<div id="signupbox">
+		<h1>Ready to Get Empowered?</h1>
+		<p>Sign up for AAPIs for Civic Empowerment updates to get election reminders, organizing news, and more, delivered to your inbox.</p>
+		<a href="#email-signup" class="email-signup" data-effect="mfp-zoom-in">Join our mailing list now</a>
+	</div>
+</div>
