@@ -6,7 +6,7 @@ tags:
 author: Sarah Vang
 featured-image: '/static/images/featured/2016-10-14-sarah-vang.jpg'
 featured-alt-text: "Side portrait of an Asian woman with photoshopped black smoke behind her. MYAAPIVOTE is for educational justice is at the bottom of the image."
-tweet: "Read YTEAMer Sarah Vang of @18millionrising share what her vote is for %23MyAAPIVote"
+tweet: "Read YTEAMer Sarah Vang of %4018millionrising share what her vote is for %23MyAAPIVote"
 facebook: "Read YTEAMer Sarah Vang of @18millionrising share what her vote is for #MyAAPIVote"
 blurb: "My parents made sure to work hard, so they can provide food, shelter and opportunity for my siblings and me. They believe that as long as you work hard in America, you could achieve the American dream. But they’re wrong; hard work is not enough."
 ---
