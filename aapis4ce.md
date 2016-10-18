@@ -56,7 +56,7 @@ __A lot of people will be voting this November and it is going to be a close ele
 <--!	<li><img src="../static/images/props/prop65.jpg">
 		<p><b>No on Proposition 65: Plastic Bag Fee</b></p>
 		<p>Redirects revenues from the state ban on plastic bags at grocery stores to the Wildlife Conservation Board.</p>
-	</li -->
+	</li> -->
 	<li><img src="../static/images/props/prop67.jpg">
 		<p><b>Yes on Proposition 67: Ban on Single-use Plastic Bags</b></p>
 		<p>Upholds the law restricting single-use carryout bags.</p>
