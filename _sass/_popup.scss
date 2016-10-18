@@ -1,0 +1,263 @@
+/**
+* Email Signup & Magnific Popup
+*/
+
+.mfp-bg {
+	background-color:#89d631 !important;
+	opacity:.9 !important;
+}
+
+.mfp-wrap { // fix for safari 5.1
+	-webkit-backface-visibility:initial !important;
+}
+
+.mfp-zoom-in {
+  
+  /* start state */
+  .mfp-with-anim {
+    opacity: 0;
+    transition: all 0.2s ease-in-out; 
+    transform: scale(0.8); 
+  }
+  
+  &.mfp-bg {
+    opacity: 0;
+	  transition: all 0.3s ease-out;
+  }
+  
+  /* animate in */
+  &.mfp-ready {
+    .mfp-with-anim {
+      opacity: 1;
+      transform: scale(1); 
+    }
+    &.mfp-bg {
+      opacity: 0.8;
+    }
+  }
+  
+  /* animate out */
+  &.mfp-removing {
+    
+    .mfp-with-anim {
+      transform: scale(0.8); 
+      opacity: 0;
+    }
+    &.mfp-bg {
+      opacity: 0;
+    }
+    
+  }
+  
+}
+
+#pop {
+	position:relative;
+	background:white;
+	max-width:550px;
+	margin:auto;
+	border-radius:10px;
+	-webkit-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.25);
+	-moz-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.25);
+	box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.25);
+	
+	#signupbox {
+		padding:50px;
+		max-width:100%;
+		width:auto;
+
+		@include media-query($on-palm) {
+			padding:$spacing-unit 15px;
+		}
+		
+		.homepage-button {
+			@include media-query($on-palm) {
+				width:200px;
+			}
+		}				
+	}
+	
+	h4 {
+		font-weight:700;
+		text-align:center;
+		font-size:28px;
+		margin-bottom:5px;
+		color: #60a8cd;
+		line-height:30px;
+	}
+	
+	h1 {
+		text-align: center;
+	}
+	
+	p {
+		margin-bottom:25px;
+	}
+	
+	a.email-signup {
+		font-weight: bold;
+		display: block;
+		text-align: center;
+		font-size: 2em;
+		font-family: 'League Gothic';
+		text-transform: uppercase;
+	}
+}
+
+#email-signup {
+	position:relative;
+	background:white;
+	max-width:550px;
+	margin:auto;
+	border-radius:10px;
+	-webkit-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.25);
+	-moz-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.25);
+	box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.25);
+	
+	span {
+	    font-style: italic;
+		font-size: .8em;
+		width: 95%;
+		display: block;
+		padding: 15px 15px;
+	}
+	
+	#can_main_col {
+		display:none;
+	}
+	
+	#action_welcome_message {
+		padding:0px;	
+	}
+	
+	#action_welcome_message_inner {
+		border:0px !important;
+		padding:0px !important;
+		
+		small {
+			display:none;
+		}
+		
+		.left {
+			width:100% !important;
+			text-align:center;
+		}
+	}
+	
+	.ajax-loading {
+		position:relative;
+		top:11px !important;
+		left:-42px;
+	}
+	
+	#can_thank_you {
+		background-color:#FFF !important;
+		border-radius:10px;	
+		padding:50px !important;
+		
+		h1 {
+			font-weight:700;
+			text-align:center;
+			font-size:28px;
+			margin-bottom:0px !important;
+			color: #60a8cd;	
+			text-shadow:none !important;	
+		}
+	}
+	
+	#can_sidebar {
+
+		padding:50px 100px;
+		overflow:hidden;
+		text-align:center;
+		
+		@include media-query($on-palm) {
+			padding:$spacing-unit 15px;
+		}
+		
+		#new_signature {			
+			margin: auto;
+			overflow: hidden;
+			width: 330px !important;
+			
+			@include media-query($on-palm) {
+				width: 250px !important;
+			}
+		}
+		
+		h4 {
+			font-weight:700;
+			text-align:center;
+			font-size:28px;
+			margin-bottom:5px;
+			color: #60a8cd;
+		}
+		
+		p {
+			margin-bottom:25px;
+		}
+		
+		.action_status_tracker, #form-first_name, #form-last_name, 
+		#form-comments, #d_sharing, .country_wrap, #form-zip_code {
+			display:none;
+		}
+		
+		#error_message {
+			clear:both;
+			background-color:#FFF;
+			color:#ea2485;
+			padding:0px;
+			
+			strong {
+				color:#ea2485;
+			}
+		}
+		
+		input {
+			border-radius:30px 0px 0px 30px;
+			padding:0px 25px;
+			float:left;
+			max-width:250px;
+			height:52px;
+			
+			@include media-query($on-palm) {
+				max-width:150px;
+			}
+			
+			&[type="submit"] {
+				line-height:0px;
+				border-radius: 0px 30px 30px 0px;
+				padding: 25px;
+				max-width: 80px;
+				margin: auto;
+				text-shadow: none;
+				font-size: 15px;
+				font-weight: 400;
+				background-color:#ea2485;
+			}
+			
+			&.signed-in {
+				max-width:100%;
+				border-radius:30px;
+			}
+			
+			&[type="submit"]:hover {
+				background-color:#60a8cd;
+			}
+			
+			&.error_input {
+				background-color:#fff;
+				border:1px solid #ea2485;
+				color:gray;
+				
+				&::-webkit-input-placeholder { color:#CCC;}
+				&:-moz-placeholder { /* Firefox 18- */ color: #CCC;}
+				&::-moz-placeholder {  /* Firefox 19+ */ color: #CCC; }
+				&:-ms-input-placeholder { color: #CCC;  }
+
+			}
+			
+		}
+	}
+
+}
