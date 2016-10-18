@@ -70,7 +70,7 @@ __A lot of people will be voting this November and it is going to be a close ele
 - Korean Guide [<a href="../static/pdf/API-VoterGuide-2016_Korean-8.5x11_v2.pdf">PDF</a>]
 - Lao Guide [<a href="../static/pdf/API-VoterGuide-2016_Lao-8.5x11_v2.pdf">PDF</a>]
 - Tagalog Guide [<a href="../static/pdf/API-VoterGuide-2016_Tagalog-8.5x11_v2.pdf">PDF</a>]
-- Thai Guide [<a href="../static/pdf/API-VoterGuide-2016_Thai-8.5x11_v2.pdf">PDF</a>]
+- Thai Guide [<a href="../static/pdf/API-VoterGuide-2016_Thai-8.5x11_v3_HIGH.pdf">PDF</a>]
 - Vietnamese Guide [<a href="../static/pdf/API-VoterGuide-2016_Vietnamese-8.5x11_v2.pdf">PDF</a>]
 
 ## Sponsoring Organizations
