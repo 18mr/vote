@@ -53,10 +53,10 @@ __A lot of people will be voting this November and it is going to be a close ele
 		<p><b>No on Proposition 66: Death Penalty Procedures</b></p>
 		<p>Accelerates the death penalty process, increasing the risk that California will execute innocent people.</p>
 	</li>
-<!--	<li><img src="../static/images/props/prop65.jpg">
+	<li><img src="../static/images/props/prop65.jpg">
 		<p><b>No on Proposition 65: Plastic Bag Fee</b></p>
-		<p>Redirects revenues from the state ban on plastic bags at grocery stores to the Wildlife Conservation Board.</p>
-	</li> -->
+		<p>Redirects revenues from the state ban on plastic bags at grocery stores from the general fund to the Wildlife Conservation Board.</p>
+	</li>
 	<li><img src="../static/images/props/prop67.jpg">
 		<p><b>Yes on Proposition 67: Ban on Single-use Plastic Bags</b></p>
 		<p>Upholds the law restricting single-use carryout bags.</p>
@@ -74,6 +74,8 @@ __A lot of people will be voting this November and it is going to be a close ele
 - Vietnamese Guide [<a href="../static/pdf/API-VoterGuide-2016_Vietnamese-8.5x11_v2.pdf">PDF</a>]
 
 ## Sponsoring Organizations
+
+_While this is a complete list of sponsors, please refer to the full guide to see detailed positions from each organization. Since we represent some of the enormous diversity of California's AAPI population, not all organizations endorse and align on all ballot propositions._
 
 <ul class="rig" id="orgs">
 	<li><a href="http://18millionrising.org"><img src="../static/images/orgs/18MR.png"></a>
