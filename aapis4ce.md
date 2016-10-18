@@ -53,7 +53,7 @@ __A lot of people will be voting this November and it is going to be a close ele
 		<p><b>No on Proposition 66: Death Penalty Procedures</b></p>
 		<p>Accelerates the death penalty process, increasing the risk that California will execute innocent people.</p>
 	</li>
-<--!	<li><img src="../static/images/props/prop65.jpg">
+<!--	<li><img src="../static/images/props/prop65.jpg">
 		<p><b>No on Proposition 65: Plastic Bag Fee</b></p>
 		<p>Redirects revenues from the state ban on plastic bags at grocery stores to the Wildlife Conservation Board.</p>
 	</li> -->
