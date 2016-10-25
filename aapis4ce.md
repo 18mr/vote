@@ -25,39 +25,39 @@ __A lot of people will be voting this November and it is going to be a close ele
 ## Key Propositions
 
 <ul class="rig" id="props">
-	<li><img src="../static/images/props/fb-ad.jpg">
+	<li><a href="https://www.facebook.com/18MillionRising.org/photos/ms.c.eJw9zMENwEAIA8GOIgzmDP03FgVd~_I7shVfTKpp02uGDCwlrU~_QPHgPULiilaL4Q05DtxQcKF9T4ANgLfKJZu7CJ8rwv8h7A.bps.a.1289407024424201.1073741835.454301294601449/1289408394424064/?type=3&theater"><img src="../static/images/props/fb-ad.jpg"></a>
 		<p><b>AAPIs for Civic Empowerment</b></p>
 		<p>2016 Voter Guide. Click each image to share on Facebook!</p>
 	</li>
-	<li><img src="../static/images/props/prop55.jpg">
+	<li><a href="https://www.facebook.com/18MillionRising.org/photos/ms.c.eJw9zMENwEAIA8GOIgzmDP03FgVd~_I7shVfTKpp02uGDCwlrU~_QPHgPULiilaL4Q05DtxQcKF9T4ANgLfKJZu7CJ8rwv8h7A.bps.a.1289407024424201.1073741835.454301294601449/1289408351090735/?type=3&theater"><img src="../static/images/props/prop55.jpg"></a>
 		<p><b>Yes on Proposition 55: Tax Extension</b></p> 
 		<p>Extends the Prop 30 income tax increase on the wealthiest Californians by 12 years -- until 2030.</p>
 	</li>
-	<li><img src="../static/images/props/prop56.jpg">
+	<li><a href="https://www.facebook.com/18MillionRising.org/photos/ms.c.eJw9zMENwEAIA8GOIgzmDP03FgVd~_I7shVfTKpp02uGDCwlrU~_QPHgPULiilaL4Q05DtxQcKF9T4ANgLfKJZu7CJ8rwv8h7A.bps.a.1289407024424201.1073741835.454301294601449/1289408347757402/?type=3&theater"><img src="../static/images/props/prop56.jpg"></a>
 		<p><b>Yes on Proposition 56: Tobacco Tax</b></p>
 		<p>Increases the state tax on cigarettes by $2 to $2.87.</p>
 	</li>
-	<li><Img src="../static/images/props/prop57.jpg">
+	<li><a href="https://www.facebook.com/18MillionRising.org/photos/ms.c.eJw9zMENwEAIA8GOIgzmDP03FgVd~_I7shVfTKpp02uGDCwlrU~_QPHgPULiilaL4Q05DtxQcKF9T4ANgLfKJZu7CJ8rwv8h7A.bps.a.1289407024424201.1073741835.454301294601449/1289408334424070/?type=3&theater"><Img src="../static/images/props/prop57.jpg"></a>
 		<p><b>Yes on Proposition 57: Public Safety & Rehabilitation Act</b></p>
 		<p>Increases parole and good behavior opportunities for non-violent offenders. Gives judges, not prosecutors, the authority to try juveniles as adults in court.</p>
 	</li>
-	<li><img src="../static/images/props/prop58.jpg">
+	<li><a href="https://www.facebook.com/18MillionRising.org/photos/ms.c.eJw9zMENwEAIA8GOIgzmDP03FgVd~_I7shVfTKpp02uGDCwlrU~_QPHgPULiilaL4Q05DtxQcKF9T4ANgLfKJZu7CJ8rwv8h7A.bps.a.1289407024424201.1073741835.454301294601449/1289408231090747/?type=3&theater"><img src="../static/images/props/prop58.jpg"></a>
 		<p><b>Yes on Proposition 58: LEARN Initiative</b></p>
 		<p>Repeals and amends Prop 227 to restore bilingual education programs for limited English proficient learners in California schools.</p>
 	</li>
-	<li><img src="../static/images/props/prop62.jpg">
+	<li><a href="https://www.facebook.com/18MillionRising.org/photos/ms.c.eJw9zMENwEAIA8GOIgzmDP03FgVd~_I7shVfTKpp02uGDCwlrU~_QPHgPULiilaL4Q05DtxQcKF9T4ANgLfKJZu7CJ8rwv8h7A.bps.a.1289407024424201.1073741835.454301294601449/1289408224424081/?type=3&theater"><img src="../static/images/props/prop62.jpg"></a>
 		<p><b>Yes on Proposition 62: Death Penalty Ban</b></p>
 		<p>Outlaws the death penalty, making life in prison the harshest sentence for capital crimes.</p>
 	</li>
-	<li><img src="../static/images/props/prop66.jpg">
+	<li><a href="https://www.facebook.com/18MillionRising.org/photos/ms.c.eJw9zMENwEAIA8GOIgzmDP03FgVd~_I7shVfTKpp02uGDCwlrU~_QPHgPULiilaL4Q05DtxQcKF9T4ANgLfKJZu7CJ8rwv8h7A.bps.a.1289407024424201.1073741835.454301294601449/1289408121090758/?type=3&theater"><img src="../static/images/props/prop66.jpg"></a>
 		<p><b>No on Proposition 66: Death Penalty Procedures</b></p>
 		<p>Accelerates the death penalty process, increasing the risk that California will execute innocent people.</p>
 	</li>
-<!--	<li><img src="../static/images/props/prop65.jpg">
+	<li><a href="https://www.facebook.com/18MillionRising.org/photos/ms.c.eJw9zMENwEAIA8GOIgzmDP03FgVd~_I7shVfTKpp02uGDCwlrU~_QPHgPULiilaL4Q05DtxQcKF9T4ANgLfKJZu7CJ8rwv8h7A.bps.a.1289407024424201.1073741835.454301294601449/1289407914424112/?type=3&theater"><img src="../static/images/props/prop65.jpg"></a>
 		<p><b>No on Proposition 65: Plastic Bag Fee</b></p>
-		<p>Redirects revenues from the state ban on plastic bags at grocery stores to the Wildlife Conservation Board.</p>
-	</li> -->
-	<li><img src="../static/images/props/prop67.jpg">
+		<p>Redirects revenues from the state ban on plastic bags at grocery stores from the general fund to the Wildlife Conservation Board.</p>
+	</li>
+	<li><a href="https://www.facebook.com/18MillionRising.org/photos/ms.c.eJw9zMENwEAIA8GOIgzmDP03FgVd~_I7shVfTKpp02uGDCwlrU~_QPHgPULiilaL4Q05DtxQcKF9T4ANgLfKJZu7CJ8rwv8h7A.bps.a.1289407024424201.1073741835.454301294601449/1289407907757446/?type=3&theater"><img src="../static/images/props/prop67.jpg"></a>
 		<p><b>Yes on Proposition 67: Ban on Single-use Plastic Bags</b></p>
 		<p>Upholds the law restricting single-use carryout bags.</p>
 	</li>
@@ -70,10 +70,12 @@ __A lot of people will be voting this November and it is going to be a close ele
 - Korean Guide [<a href="../static/pdf/API-VoterGuide-2016_Korean-8.5x11_v2.pdf">PDF</a>]
 - Lao Guide [<a href="../static/pdf/API-VoterGuide-2016_Lao-8.5x11_v2.pdf">PDF</a>]
 - Tagalog Guide [<a href="../static/pdf/API-VoterGuide-2016_Tagalog-8.5x11_v2.pdf">PDF</a>]
-- Thai Guide [<a href="../static/pdf/API-VoterGuide-2016_Thai-8.5x11_v2.pdf">PDF</a>]
+- Thai Guide [<a href="../static/pdf/API-VoterGuide-2016_Thai-8.5x11_v3_HIGH.pdf">PDF</a>]
 - Vietnamese Guide [<a href="../static/pdf/API-VoterGuide-2016_Vietnamese-8.5x11_v2.pdf">PDF</a>]
 
 ## Sponsoring Organizations
+
+_While this is a complete list of sponsors, please refer to the full guide to see detailed positions from each organization. Since we represent some of the enormous diversity of California's AAPI population, not all organizations endorse and align on all ballot propositions._
 
 <ul class="rig" id="orgs">
 	<li><a href="http://18millionrising.org"><img src="../static/images/orgs/18MR.png"></a>
