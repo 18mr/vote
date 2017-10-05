@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '#MyAAPIVote | Voter Registration'
-pagetitle: "Let's Get REady for November 8!"
+pagetitle: "Let's Get Ready for November 7!"
 menutitle: 'Voter Registration'
 permalink: /voters/
 weight: 2
