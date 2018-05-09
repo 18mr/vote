@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: '#MyAAPIVote | About'
 menutitle: 'About'
 permalink: /about/
