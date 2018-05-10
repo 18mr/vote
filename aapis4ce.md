@@ -6,7 +6,7 @@ permalink: /aapis4ce/
 weight: 10
 ---
 
-## The AAPIs for Civic Empowerment California State Voter Guide
+## The AAPIs for Civic Empowerment Education Fund California State Voter Guide
 
 <div id="google_translate_element"></div><script type="text/javascript">
 function googleTranslateElementInit() {
