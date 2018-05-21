@@ -47,10 +47,11 @@ __A lot of people will be voting in this year's primary and it's going to be a c
 	</li>
 </ul>
 
-## Download The Full Guide in 7 Languages
+## Download The Full Guide in 8 Languages
 
 - Chinese Guide [<a href="../static/pdf/2018/june/chinese.pdf">PDF</a>]
 - English Guide [<a href="../static/pdf/2018/june/english.pdf">PDF</a>]
+- Hmong Guide [<a href="../static/pdf/2018/june/hmong.pdf">PDF</a>]
 - Khmer Guide [<a href="../static/pdf/2018/june/khmer.pdf">PDF</a>]
 - Korean Guide [<a href="../static/pdf/2018/june/korean.pdf">PDF</a>]
 - Lao Guide [<a href="../static/pdf/2018/june/lao.pdf">PDF</a>]
