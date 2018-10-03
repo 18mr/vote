@@ -1,6 +1,6 @@
 ---
 layout: fullwidth
-title: '#MyAAPIVote | Pledge to Vote'
+title: '#OurAAPIVote | Pledge to Vote'
 menutitle: 'Pledge to Vote'
 permalink: /pledge/
 featured-image: /static/images/featured/pledge2016.png

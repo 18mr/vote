@@ -1,6 +1,6 @@
 ---
 layout: fullwidth
-title: '#MyAAPIVote | Thanks for Pledging!'
+title: '#OurAAPIVote | Thanks for Pledging!'
 menutitle: 'Thanks for Pledging!'
 permalink: /thankyou/
 weight: 20

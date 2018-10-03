@@ -1,6 +1,6 @@
 ---
 layout: fullwidth
-title: '#MyAAPIVote | Your Turn!'
+title: '#OurAAPIVote | Your Turn!'
 menutitle: 'Your Turn'
 permalink: /yourturn/
 weight: 10
