@@ -33,8 +33,11 @@ weight: 3
 For many AAPIs, our families were tasked with immigrant survival and bootstrap tenacity. Maybe they gave up everything to immigrate here, maybe they work long hours in service jobs, maybe they worry about their financial security. 
 
 **Now it’s time we support them.**  It’s time to vote for people and initiatives that will make all our lives easier. Our vote for the AAPI community will help support  a future that supports our families. 
+
 <br>
+
 ---  
+
 <br>
 
 
@@ -122,6 +125,14 @@ If you and your family need info about language rights translated, check out the
 • [Korean](https://advancingjustice-aajc.org/index.php/publication/your-right-voting-assistance-korean-hangugeo)
 • [Japanese](https://advancingjustice-aajc.org/index.php/publication/your-right-voting-assistance-japanese-ribenyu)
 
+
+<br>
+
+---  
+
+<br>
+
+
 ## What Do I Do On Election Day?
 
 **Election Day is always the first Tuesday of November. On this Election Day, November 6th 2018, you are going to exercise your power to vote. Here are some hacks to get you through the day:**
@@ -141,10 +152,16 @@ If you and your family need info about language rights translated, check out the
 * Text message your friends or use an app like VoteTogether to text your friends a reminder the night before Election Day. 
 * Wear your “I Voted” sticker and take a selfie - share with the hashtag #OurAAPIVote
 
+
 <br>
 
+---  
+
+<br>
+
+
 ## Share #OurAAPIVote on Social Media
-## Share on Social Media
+
 
 **To help you spread the word, you can share these posts on your social media accounts to encourage your friends and family to register vote!**
 
