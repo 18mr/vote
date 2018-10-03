@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '#OurAAPIVote | Voter ToolKit'
+title: '#OurAAPIVote | Electoral ToolKit'
 pagetitle: "#OurAAPIVote Electoral Toolkit"
 menutitle: 'Voter Toolkit'
 permalink: /learn/
