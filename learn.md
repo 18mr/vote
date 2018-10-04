@@ -15,12 +15,14 @@ weight: 3
 
 ***Here you will find the 18MillionRising.org #OurAAPIVote Electoral Toolkit to give you all the things you need to get out the Asian American and Pacific Islander vote in your community.***
 
-1. [Why #OurAAPIVote?](#why_#OurAAPIVote?)
-2. [Why Should AAPIs Vote?](#why_should_AAPIs_Vote?)
-3. [Pledge to Vote Tool](#pledge_to_vote_tool)
-4. [How Do I Register to Vote?](#how_do_i_register_to_Vote?) 
-5. [How Do I Vote?](#how_do_I_vote?)
-6. [What Do I Do on Election Day?](#what_do_I_Do_on_election_day?) 
+1. [Why #OurAAPIVote?](#why)
+2. [Why Should AAPIs Vote?](#why2)
+3. [Pledge to Vote Tool](#pledge)
+4. [How Do I Register to Vote?](#register) 
+5. [How Do I Vote?](#how)
+6. [What Do I Do on Election Day?](#what)
+7. [Share #OurAAPIVote](#share)
+
 
 <br>
 
@@ -28,7 +30,7 @@ weight: 3
 
 <br>
 
-## WHY #OurAAPIVote?
+## WHY #OurAAPIVote?<a name="why"></a>
 
 For many AAPIs, our families were tasked with immigrant survival and bootstrap tenacity. Maybe they gave up everything to immigrate here, maybe they work long hours in service jobs, maybe they worry about their financial security. 
 
@@ -41,7 +43,7 @@ For many AAPIs, our families were tasked with immigrant survival and bootstrap t
 <br>
 
 
-## Why Should AAPIs Vote?
+## Why Should AAPIs Vote?<a name="why2"></a>
 
 ***This is one of the hardest conversations to have with community members - trying to find reasons to encourage them to vote that resonates. We’ve come up a list of talking points that we hope you will be able to use when encouraging people to vote.*** 
 
@@ -64,7 +66,7 @@ For many AAPIs, our families were tasked with immigrant survival and bootstrap t
 ---
 
 <br>
-## Pledge To Vote
+## Pledge To Vote <a name="pledge"></a>
 
 ***Commiting to vote is the first step to the getting engaged in the electoral process. It is for this reason we’ve created our Pledge to Vote tool to help get your community to turn out to vote. We’ve included some social media messaging you can use to ask people to sign the pledge:***
 
@@ -81,7 +83,7 @@ For many AAPIs, our families were tasked with immigrant survival and bootstrap t
 ---
 <br>
 
-## How Do I Register to Vote? 
+## How Do I Register to Vote? <a name="register"></a>
 
 **There are a lot of people that don’t know that to register to vote takes an extra step!**
 
@@ -100,7 +102,7 @@ If you can’t go to the polls on Election Day, [you can sign up for an Absentee
 ---
 <br>
 
-## How Do I Vote?
+## How Do I Vote?<a name="how"></a>
 
 **There are so many things to vote on, it can get confusing.** You will be voting on your Congressperson, State Representative, Judges, and Ballot Measures and more…There are many resources out there to help you out - here are a few that we like: 
 
@@ -134,7 +136,7 @@ If you and your family need info about language rights translated, check out the
 <br>
 
 
-## What Do I Do On Election Day?
+## What Do I Do On Election Day?<a name="what"></a>
 
 **Election Day is always the first Tuesday of November. On this Election Day, November 6th 2018, you are going to exercise your power to vote. Here are some hacks to get you through the day:**
 
@@ -161,7 +163,7 @@ If you and your family need info about language rights translated, check out the
 <br>
 
 
-## Share #OurAAPIVote on Social Media
+## Share #OurAAPIVote on Social Media <a name="share"></a>
 
 
 **To help you spread the word, you can share these posts on your social media accounts to encourage your friends and family to register vote!**
