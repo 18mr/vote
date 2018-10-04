@@ -15,12 +15,12 @@ weight: 3
 
 ***Here you will find the 18MillionRising.org #OurAAPIVote Electoral Toolkit to give you all the things you need to get out the Asian American and Pacific Islander vote in your community.***
 
-1. Why #OurAAPIVote? [link to header]
-2. Why Should AAPIs Vote? [Link to header]
-3. Pledge to Vote Tool [Link to header]
-4. How Do I Register to Vote? [Link to header]
-5. How Do I Vote? [Link to Header]
-6. What Do I Do on Election Day? [Link to Header]
+1. [Why #OurAAPIVote?](#why_#OurAAPIVote?)
+2. [Why Should AAPIs Vote?](#why_should_AAPIs_Vote?)
+3. [Pledge to Vote Tool](#pledge_to_vote_tool)
+4. [How Do I Register to Vote?](#how_do_i_register_to_Vote?) 
+5. [How Do I Vote?](#how_do_I_vote?)
+6. [What Do I Do on Election Day?](#what_do_I_Do_on_election_day?) 
 
 <br>
 
