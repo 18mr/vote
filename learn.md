@@ -178,7 +178,8 @@ If you and your family need info about language rights translated, check out the
 
 [Click here to download #OurAAPIVote images to share on social media with the sample posts above, or write a personal post about why voting is important to you!](http://bit.ly/OurAAPIVotePics) 
 
-![][(/static/images/AAPIVOTE_IG_SHARE.png)
+
+[![](/static/images/AAPIVOTE_IG_SHARE.png)](http://bit.ly/OurAAPIVotePics){:target="_blank"}
 
 
 
