@@ -178,7 +178,7 @@ If you and your family need info about language rights translated, check out the
 
 >As Asian Americans, our voting power is both massive and vital to elections. Vote on election day, November 6, to make your voice heard. Find your polling place: https://www.vote.org/polling-place-locator/ #OurAAPIVote
 
-[Click here to download #OurAAPIVote images to share on social media with the sample posts above, or write a personal post about why voting is important to you!](http://bit.ly/OurAAPIVotePics) 
+[Click here to download #OurAAPIVote images to share on social media with the sample posts above, or write a personal post about why voting is important to you!](http://bit.ly/OurAAPIVotePics){:target="_blank"}
 
 
 [![](/static/images/AAPIVOTE_IG_SHARE.png)](http://bit.ly/OurAAPIVotePics){:target="_blank"}
