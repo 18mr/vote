@@ -49,7 +49,7 @@ For many AAPIs, our families were tasked with immigrant survival and bootstrap t
 
 * The Chinese Exclusion Act was the first law passed to keep out a specific ethnic group and barring people of Chinese ancestry from becoming U.S. citizens. The Chinese Exclusion Act inspired more laws banning people from other Asian countries, shutting down our political voice. And it kept Asians from being able to participate in the electoral process. 
 
-![](/static/images/AAPIVOTE_INFO.png) 
+![](/static/images/OurAAPIVOTE_INFO.jpg) 
 
 * **More than 20 million Asian Americans and Pacific Islanders (AAPIs) live in the United States and we’re the fastest-growing racial group in the country.** By 2036, [we’ll be nearly 10% of all eligible voters.](http://naasurvey.com/wp-content/uploads/2017/05/NAAS16-post-election-report.pdf)
 
@@ -75,6 +75,7 @@ For many AAPIs, our families were tasked with immigrant survival and bootstrap t
 ***[Use our Pledge to Vote tool here.](http://vote.18mr.org/pledge/)*** 
 
 ![](/static/images/Our-AAPI-Vote-Pledge.jpg)
+
 <br>
 
 ---
@@ -175,7 +176,9 @@ If you and your family need info about language rights translated, check out the
 
 >As Asian Americans, our voting power is both massive and vital to elections. Vote on election day, November 6, to make your voice heard. Find your polling place: https://www.vote.org/polling-place-locator/ #OurAAPIVote
 
+[Click here to download #OurAAPIVote images to share on social media with the sample posts above, or write a personal post about why voting is important to you!](http://bit.ly/OurAAPIVotePics) 
+
+![][(/static/images/AAPIVOTE_IG_SHARE.png)
 
 
-![](/static/images/AAPIVOTE_IG_SHARE.png) 
 
