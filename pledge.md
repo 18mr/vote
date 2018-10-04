@@ -4,7 +4,7 @@ title: '#OurAAPIVote | Pledge to Vote'
 menutitle: 'Pledge to Vote'
 permalink: /pledge/
 featured-image: /static/images/featured/pledge2016.png
-description: "I just pledged to vote and created a #MYAAPIVOTE badge to share the issue I’m most passionate about. Join me by pledging to vote and create a badge about why YOU vote!"
+description: "I just pledged to vote! Join me in pledging to vote and use 18MR's #OurAAPIVote Electoral Toolkit to help your friends and family get to the polls!"
 weight: 15
 ---
 
