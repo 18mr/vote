@@ -20,12 +20,12 @@ Since our founding in 2012, online civic engagement and engaging the Asian Ameri
 * We supported an effort of South Asian activists and creatives to make a series of videos to get out the Desi Vote, including actors Parvesh Cheena and Sonal Shah.
 [Watch the all six videos here.](https://www.youtube.com/playlist?list=PLZAjHgvG7Uo0dCCyMbRQ8zZUBz98q43_0){:target="_blank"} 
 
-<center><a href="http://www.youtube.com/watch?v=gim3PgnHc3s" target="_blank"> <img src="http://img.youtube.com/vi/gim3PgnHc3s/0.jpg" width="50%;" height="50%;"> </a> </center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gim3PgnHc3s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 * We parterned with Jubilee Project on a #DontVote video featuring Asian American artists, including Far East Movement: 
 
-<center><a href="http://www.youtube.com/watch?v=-Y86Pg1Esd0" target="_blank"> <img src="http://img.youtube.com/vi/-Y86Pg1Esd0/0.jpg" width="50%;" height="50%;"> </a> </center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Y86Pg1Esd0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 * We partnered with Asian Pacific Environmental Network and Mobilize the Immigrant Vote on the first ever [California Statewide APIA Voter Guide.](https://www.facebook.com/pg/18MillionRising.org/photos/?tab=album&album_id=485847728113472){:target="_blank"} 
@@ -41,7 +41,9 @@ Since our founding in 2012, online civic engagement and engaging the Asian Ameri
 * Participated in [Election Protection support for Election Day.](https://www.facebook.com/18MillionRising.org/photos/a.474465015918410/854586757906232/?type=3&theater){:target="_blank"} 
 * Partnered with Rock the Vote on the #CareLikeCrazy campaign and supported this fun Get Out the Vote PSA featuring actor-dancer Gabriel Valenciano : 
 
-<center><a href="http://www.youtube.com/watch?v=1g30sHkc128" target="_blank"> <img src="http://img.youtube.com/vi/1g30sHkc128/0.jpg" width="50%;" height="50%;"> </a> </center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1g30sHkc128" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
 <br>
 * Launched VoterVOX, 18MR’s web based tool to the help Limited English Proficient Asian American voters get their ballots translated by in-person volunteers. 
 
@@ -50,8 +52,8 @@ Since our founding in 2012, online civic engagement and engaging the Asian Ameri
 
 ## 2016
 
-<a href="http://www.youtube.com/watch?v=1A0Hxe-aFtM" target="_blank"> <img style="float: right;" hspace="10" width="50%;" height="50%" src="http://img.youtube.com/vi/1A0Hxe-aFtM/0.jpg"> </a> 
-
 * We partnered with AAPIs for Civic Empowerment to launch the [2016 AAPI California Voter Guide.](https://www.facebook.com/media/set/?set=a.1289407024424201&type=1&l=6eaf0d0e7f){:target="_blank"}  
 * We produced Voices of Our Vote: #MyAAPIVote Album - a compilation album featuring 32 politically empowering tracks by an eclectic mix of Asian American musicians. At 18MillionRising, we believe that music can shift hearts and minds, and we believe music can activate Asian America to the polls. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1A0Hxe-aFtM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 		
