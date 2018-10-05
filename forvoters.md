@@ -1,9 +1,9 @@
 ---
 layout: post
-title: '#OurAAPIVote | Voter Registration'
-pagetitle: "Let's Get Ready for Election Day!"
-menutitle: 'Voter Registration'
-permalink: /voters/
+title: '#OurAAPIVote | #MyAAPIVoteAlbum'
+pagetitle: "Voices of Our Vote: #MyAAPIVote Album"
+menutitle: 'Voices of Our Vote'
+permalink:/Voices/
 weight: 2
 ---
 
