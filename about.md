@@ -43,7 +43,6 @@ Since our founding in 2012, online civic engagement and engaging the Asian Ameri
 
 <center><a href="http://www.youtube.com/watch?v=1g30sHkc128" target="_blank"> <img src="http://img.youtube.com/vi/1g30sHkc128/0.jpg" width="50%;" height="50%;"> </a> </center>
 <br>
-<br>
 * Launched VoterVOX, 18MR’s web based tool to the help Limited English Proficient Asian American voters get their ballots translated by in-person volunteers. 
 
 <br>
