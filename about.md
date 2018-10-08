@@ -44,9 +44,13 @@ We launched just before the 2012 Presidential election with a mission to registe
 
 * We collaborated with pop culture creators to produce and distribute PSAs tailored to AAPIs online, [like this funny series](https://www.youtube.com/playlist?list=PLZAjHgvG7Uo0dCCyMbRQ8zZUBz98q43_0){:target="_blank"}  focused on Desi voters with actors Parvesh Cheena and Sonal Shah, and this PSA with Jubilee Project and Far East Movement. 
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/gim3PgnHc3s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<center>
+<iframe width="50%" height="315" src="https://www.youtube.com/embed/gim3PgnHc3s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</center>
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/-Y86Pg1Esd0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<center>
+<iframe width="50%" height="315" src="https://www.youtube.com/embed/-Y86Pg1Esd0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</center>
 
 
 * We created the digital version of the first [California Statewide APIA Voter Guide,](https://www.facebook.com/pg/18MillionRising.org/photos/?tab=album&album_id=485847728113472){:target="_blank"} developed by Asian Pacific Environmental Network and Mobilize the Immigrant Vote. 
@@ -70,8 +74,9 @@ We launched just before the 2012 Presidential election with a mission to registe
 
 * When 40,000 Georgia voters were mysteriously not registered for the 2014 election, we teamed up with Asian Americans Advancing Justice - Georgia, Moral Monday Georgia, and Rise Up Georgia to [hold the Secretary of State accountable](https://action.18mr.org/georgia-doj/) and ensure that communities of color could exercise their right to vote.  
 
-
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/1g30sHkc128" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<center>
+<iframe width="50%" height="315" src="https://www.youtube.com/embed/1g30sHkc128" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</center>
 
 <br>
 
@@ -83,11 +88,12 @@ We launched just before the 2012 Presidential election with a mission to registe
 
 * We continued our partnership on a new [California AAPI Voter Guide](https://www.facebook.com/media/set/?set=a.1289407024424201&type=1&l=6eaf0d0e7f) with newly formed AAPIs for Civic Empowerment.
 
-*We started working on our first standalone tech tool, [VoterVOX](http://votervox.org/). Conceived by recognizing the value of personal experience translating for our families and designed after an extensive community-led process, VoterVOX is the first web tool by and for limited English speaking communities to connect and get personalized assistance when they go to the polls.
+* We started working on our first standalone tech tool, [VoterVOX](http://votervox.org/). Conceived by recognizing the value of personal experience translating for our families and designed after an extensive community-led process, VoterVOX is the first web tool by and for limited English speaking communities to connect and get personalized assistance when they go to the polls.
 
  
 * We produced Voices of Our Vote: #MyAAPIVote Album - a compilation album featuring 32 politically empowering tracks by an eclectic mix of Asian American musicians, because we believe that music can change hearts and minds and ignite action. You can still name your own price to [download the album.](https://voicesofourvote.org/)
 
-
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/1A0Hxe-aFtM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<center>
+<iframe width="50%" height="315" src="https://www.youtube.com/embed/1A0Hxe-aFtM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<center>
 		
