@@ -20,6 +20,6 @@ We created the <a href="http://vote.18mr.org/learn/">#OurAAPIVote Electoral Tool
 <h2 class="thankyou">Don’t forget to share this page with your friends and family to help them get to the polls!</h2>
 	
 <div class="share-page">
-   <center><span><a href="https://twitter.com/intent/tweet?text=I%20pledged%20to%20vote%20%26%20created%20a%20%23MYAAPIVOTE%20badge%20with%20%4018millionrising%2E%20Share%20why%20you%20vote%21&url=http://vote.18mr.org/pledge" rel="nofollow" target="_blank" title="Share on Twitter">Share on Twitter</a></span>
+   <center><span><a href="https://twitter.com/intent/tweet?text=I+just+pledged+to+vote%21+Join+%23OURAAPIVOTE+with+%4018millionrising%21+&url=http://vote.18mr.org/pledge" rel="nofollow" target="_blank" title="Share on Twitter">Share on Twitter</a></span>
     <span><a href="https://www.facebook.com/sharer/sharer.php?u=http://vote.18mr.org/pledge">Share on Facebook</a></span></center>
 </div>
