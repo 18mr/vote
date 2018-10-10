@@ -6,7 +6,7 @@ permalink: /aapis4ce/
 weight: 10
 ---
 
-## The AAPIs for Civic Empowerment Education Fund California State Voter Guide
+## The AAPIs for Civic Empowerment Education Fund California State Fall Voter Guide
 
 <div id="google_translate_element"></div><script type="text/javascript">
 function googleTranslateElementInit() {
@@ -14,49 +14,111 @@ function googleTranslateElementInit() {
 }
 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
-<img class="banner" src="../static/images/2018-guide/june/banner.jpg" alt="A banner reading 'AAPIs for Civic Empowerment Education Fund Voter Guide #AAPIPower2018' featuring color-filtered images of voters at a polling place, a park, buses parked in a lot, and an oil derrick.">
+<img class="banner" src="../static/images/2018-guide/nov/18MR_VoterGuide_IG_cover.jpg" alt="A banner reading 'Nocember 2018 California Voter Guide AAPIs for Civic Empowerment Education Fund' featuring color-filtered images of housing, a mother and daughter talking with a doctor, and a body of water.">
 
-Did you know there are five ballot measures on the June primary ballot in California? Our state is home to the largest Asian American and Pacific Islander population in the nation and we believe that an informed Asian American and Pacific Islander electorate will benefit our entire state.
+Election Day is Tuesday, November 6th, 2018
 
-We want to help you get the information you need to be an informed and engaged voter, so we created a statewide Asian American and Pacific Islander Voter Guide to educate Asian Americans and Pacific Islanders on a wide range of issues.
+**We believe that all communities are healthier, safer when everyone has access to an affordable home, a good education, and clear air and water.** 
 
-__A lot of people will be voting in this year's primary and it's going to be a close election. Your vote will make the difference. Please remember to vote on Tuesday, June 5, 2018.__
+Across California, many of our families are being displaced from their homes due to evictions and rising rent costs. Our schools and vital services are underfunded due to corporate tax loopholes, and profit-driven decisions are made at the expense of our health and safety. **Asian American and Pacific Islander communities are affected by these issues as well as other communities of color. We recognize that our struggles for better access and resources are interlinked with the historic and current fights waged by Black and Brown communities.** 
 
-## Key Propositions
+This November, we have the power to build towards this vision and reinvest in our communities.**Asian American and Pacific Islanders are voting at higher rates than ever, and our vote could be the deciding factor in this election! Join us and vote on Tuesday, November 6th!**
+
+<img width="25px" height="25px" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png"> 
+<a href="https://twitter.com/aapiforce_ef">	
+@aapiforce_ef</a>
+<br>
+<a href="http://aapiforce-ef.org/">http://aapiforce-ef.org/</a>
+
+## General Election State Measures
 
 <ul class="rig" id="2018-props">
-	<li><a href="https://facebook.com/18MillionRising.org/photos/a.1890253707672860.1073741838.454301294601449/1890253734339524/?type=3&theater"><img src="../static/images/2018-guide/june/prop68.jpg"></a>
-		<p><b>Proposition 68</b></p>
-		<p>Parks, Environment, and Water Bond</p>
+	<li><a href=""><img src="../static/images/2018-guide/nov/18MR_VoterGuide_IG_1.jpg"></a>
+		<p><b>The Veterans and Affordable Housing Act: YES  &#10004; </b></p>
+		<p> </p>
+<p>Allows the state to issue $4 billion in general bonds to fund affordable housing programs and projects for low-income Californians, farmworkers, and veterans.</p>
 	</li>
-	<li><a href="https://facebook.com/18MillionRising.org/photos/a.1890253707672860.1073741838.454301294601449/1890253757672855/?type=3&theater"><img src="../static/images/2018-guide/june/prop69.jpg"></a>
-		<p><b>Proposition 69</b></p> 
-		<p>Diesel Tax & Transportation Improvement Fee for Transportation-Related Purposes</p>
+	<li><a href=""><img src="../static/images/2018-guide/nov/18MR_VoterGuide_IG_2.jpg"></a>
+		<p><b>Housing Bond for Homelessness: YES  &#10004; </b></p>
+		<p>Allows the state to use $2 billion in bonds to build permanent supportive housing with mental health services for the homeless. It aims to address the housing needs of CA’s chronically homeless population.</p>
 	</li>
-	<li><a href="https://facebook.com/18MillionRising.org/photos/a.1890253707672860.1073741838.454301294601449/1890253907672840/?type=3&theater"><img src="../static/images/2018-guide/june/prop70.jpg"></a>
-		<p><b>Proposition 70</b></p>
-		<p>Limits Legislature's authority to use carbon pollution revenue to reduce pollution</p>
+	<li><a href="https://facebook.com/18MillionRising.org/photos/a.1890253707672860.1073741838.454301294601449/1890253907672840/?type=3&theater"><img src="../static/images/2018-guide/nov/18MR_VoterGuide_IG_3.jpg"></a>
+		<p><b>Funding Water Supply, Quality, and Water Infrastructure: YES  &#10004; </b></p>
+		<p>Allows the state to borrow $8.8 billion in general bonds to fund safe drinking water, water-supply infrastructure, watershed protection and restoration. The proposal also provides extensive benefits and priority to disadvantaged communities and economically distressed areas. 
+</p>
 	</li>
-	<li><a href="https://facebook.com/18MillionRising.org/photos/a.1890253707672860.1073741838.454301294601449/1890253801006184/?type=3&theater"><Img src="../static/images/2018-guide/june/prop71.jpg"></a>
-		<p><b>Proposition 71</b></p>
-		<p>Effective date of ballot measures</p>
+	<li><a href="https://facebook.com/18MillionRising.org/photos/a.1890253707672860.1073741838.454301294601449/1890253801006184/?type=3&theater"><Img src="../static/images/2018-guide/nov/18MR_VoterGuide_IG_4.jpg"></a>
+		<p><b>Children’s Hospital Bond: YES  &#10004; </b></p>
+		<p>Allows the state to borrow $1.5 billion to fund grants for capital improvements, including construction, expansion, renovation and equipping for qualifying children’s hospitals.</p>
 	</li>
-	<li><a href="https://facebook.com/18MillionRising.org/photos/a.1890253707672860.1073741838.454301294601449/1890253844339513/?type=3&theater"><img src="../static/images/2018-guide/june/prop72.jpg"></a>
-		<p><b>Proposition 72</b></p>
-		<p>Rainwater capture systems excluded from property tax assessments</p>
+	<li><a href="https://facebook.com/18MillionRising.org/photos/a.1890253707672860.1073741838.454301294601449/1890253844339513/?type=3&theater"><img src="../static/images/2018-guide/nov/18MR_VoterGuide_IG_5.jpg"></a>
+		<p><b>Property Tax Transfer: NO &#x2718; </b></p>
+		<p>Will result in loss in revenue of over $2 billion for schools and social services. Allows homeowners 55 or older to transfer their property tax discount to their new home anywhere in the state, no matter the new home's market value or number of moves. </p>
+	</li>
+<li><a href="https://facebook.com/18MillionRising.org/photos/a.1890253707672860.1073741838.454301294601449/1890253844339513/?type=3&theater"><img src="../static/images/2018-guide/nov/18MR_VoterGuide_IG_6.jpg"></a>
+		<p><b>Gas Tax Repeal: NO &#x2718;</b></p>
+		<p>Overturns the 2017 car fee and gas tax that pays for repairs and improvements to local roads, state highways, and public transportation (including transit, bicycle and pedestrian projects). If passed, the state would lose up to $5 billion per year. </p>
+	</li>
+	<li><a href="https://facebook.com/18MillionRising.org/photos/a.1890253707672860.1073741838.454301294601449/1890253844339513/?type=3&theater"><img src="../static/images/2018-guide/nov/18MR_VoterGuide_IG_7.jpg"></a>
+		<p><b>Daylight Savings: NEUTRAL </b></p>
+		<p>Gives the state legislature the power to switch the state to permanent daylight savings time, but only if Congress approves.</p>
+	</li>
+	<li><a href="https://facebook.com/18MillionRising.org/photos/a.1890253707672860.1073741838.454301294601449/1890253844339513/?type=3&theater"><img src="../static/images/2018-guide/nov/18MR_VoterGuide_IG_8.jpg"></a>
+		<p><b>Dialysis Regulation & Price Control: YES  &#10004;</b></p>
+		<p>Limits the amount outpatient kidney dialysis clinics may charge for patient care and imposes penalties for excessive charges. Prohibits clinics from discriminating against patients based on the source of payment.</p>
+	</li>
+	<li><a href="https://facebook.com/18MillionRising.org/photos/a.1890253707672860.1073741838.454301294601449/1890253844339513/?type=3&theater"><img src="../static/images/2018-guide/nov/18MR_VoterGuide_IG_10.jpg"></a>
+		<p><b>Expand Rights to Pass Local Rent Control: YES  &#10004;</b></p>
+		<p>Repeals the Costa Hawkins state law and allows local government authorities the choice and ability to enact rent control measures on <b>single family homes,</b> and residential units built after 1995. This proposal would help address the rising rent costs and housing affordability crisis in California.
+<Br><br>
+<b>
+1 in 4 CA renters were severely cost-burdened, spending 50% or more of their income on rent in 2015.</b>
+<i>(Source: Budget Center Analysis of US Census Bureau & American Community Survey)</i>
+<b>In the last 7 years, Orange County rents increased 24%, with a current average rent of $1871.</b>
+<i>(Source: Reis Inc.)</i> Californians shouldn’t be struggling to stay in their homes. We are in the middle of a housing affordability crisis, and the rent is too high! It’s time to vote Yes on Prop 10!
+
+		</p>
+
+	</li>
+	<li><a href="https://facebook.com/18MillionRising.org/photos/a.1890253707672860.1073741838.454301294601449/1890253844339513/?type=3&theater"><img src="../static/images/2018-guide/nov/18MR_VoterGuide_IG_11.jpg"></a>
+		<p><b>Ambulance Worker Break Rules: NO &#x2718;</b></p>
+		<p>Requires private-sector emergency ambulance employees to remain on call during work breaks; exempts employers from potential liability for violations of labor laws. 
+</p>
+	</li>
+	<li><a href="https://facebook.com/18MillionRising.org/photos/a.1890253707672860.1073741838.454301294601449/1890253844339513/?type=3&theater"><img src="../static/images/2018-guide/nov/18MR_VoterGuide_IG_12.jpg"></a>
+		<p><b>New Standards for Confinement of Farm Animals: NEUTRAL</b></p>
+		<p>Requires pork and veal sold in CA be produced without restrictive crates, and that eggs produced cage-free. Establishes specific square footage requirements for confinement of farm animals.</p>
 	</li>
 </ul>
 
+
+
+
+
+## Key Dates:
+
+* Deadline to Register to Vote: Oct. 22, 2018
+* Deadline to Apply for vote-by-mail: Oct. 30, 2018
+
+
 ## Download The Full Guide in 8 Languages
 
-- Chinese Guide [<a href="../static/pdf/2018/june/chinese.pdf">PDF</a>]
-- English Guide [<a href="../static/pdf/2018/june/english.pdf">PDF</a>]
-- Hmong Guide [<a href="../static/pdf/2018/june/hmong.pdf">PDF</a>]
-- Khmer Guide [<a href="../static/pdf/2018/june/khmer.pdf">PDF</a>]
-- Korean Guide [<a href="../static/pdf/2018/june/korean.pdf">PDF</a>]
-- Lao Guide [<a href="../static/pdf/2018/june/lao.pdf">PDF</a>]
-- Tagalog Guide [<a href="../static/pdf/2018/june/tagalog.pdf">PDF</a>]
-- Vietnamese Guide [<a href="../static/pdf/2018/june/vietnamese.pdf">PDF</a>]
+- Chinese Guide [<a href="../static/pdf/2018/nov/chinese.pdf">PDF</a>]
+- English Guide [<a href="../static/pdf/2018/nov/eng.pdf">PDF</a>]
+- Hmong Guide [<a href="../static/pdf/2018/nov/hmong.pdf">PDF</a>]
+- Khmer Guide [<a href="../static/pdf/2018/nov/engkhmer.pdf">PDF</a>]
+- Korean Guide [<a href="../static/pdf/2018/nov/engkorean.pdf">PDF</a>]
+- Lao Guide [<a href="../static/pdf/2018/nov/englao.pdf">PDF</a>]
+- Tagalog Guide [<a href="../static/pdf/2018/nov/engtaga.pdf">PDF</a>]
+- Vietnamese Guide [<a href="../static/pdf/2018/nov/viet.pdf">PDF</a>]
+
+
+
+This voter guide is in partnership with KRC, HIP, FAJ, CPA, KGA, APEN (logos)
+
+<font color="#f45e5c">Paid for by: Chinese Progressive Associaion FPPC # 1380710
+</font>
+
 
 <!-- ## Sponsoring Organizations
 
