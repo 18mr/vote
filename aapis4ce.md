@@ -114,7 +114,7 @@ This November, we have the power to build towards this vision and reinvest in ou
 
 
 
-This voter guide is in partnership with KRC, HIP, FAJ, CPA, KGA, APEN (logos)
+This voter guide is in partnership with KRC, HIP, FAJ, CPA, KGA, APEN
 
 <font color="#f45e5c">Paid for by: Chinese Progressive Associaion FPPC # 1380710
 </font>
