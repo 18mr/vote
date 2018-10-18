@@ -16,7 +16,7 @@ highlighter: rouge
 permalink: title
 categories: [forvoters, ourvotesmatter, about, general]
 
-plugins: [jekyll-paginate]
+plugins_dir: [jekyll-paginate]
 
 # Output
 permalink: /:year/:month/:title.html
