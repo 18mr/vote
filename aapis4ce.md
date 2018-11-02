@@ -107,7 +107,7 @@ This November, we have the power to build towards this vision and reinvest in ou
 - English Guide [<a href="../static/pdf/2018/nov/eng.pdf">PDF</a>]
 - Hmong Guide [<a href="../static/pdf/2018/nov/hmong.pdf">PDF</a>]
 - Khmer Guide [<a href="../static/pdf/2018/nov/engkhmer.pdf">PDF</a>]
-- Korean Guide [<a href="../static/pdf/2018/nov/engkorean.pdf">PDF</a>]
+- Korean Guide [<a href="../static/pdf/2018/nov/engkor.pdf">PDF</a>]
 - Lao Guide [<a href="../static/pdf/2018/nov/englao.pdf">PDF</a>]
 - Tagalog Guide [<a href="../static/pdf/2018/nov/engtaga.pdf">PDF</a>]
 - Vietnamese Guide [<a href="../static/pdf/2018/nov/viet.pdf">PDF</a>]
