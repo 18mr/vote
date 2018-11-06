@@ -33,41 +33,41 @@ This November, we have the power to build towards this vision and reinvest in ou
 ## General Election State Measures
 
 <ul class="rig" id="2018-props">
-	<li><a href=""><img src="../static/images/2018-guide/nov/18MR_VoterGuide_IG_1.jpg"></a>
+	<li><a href="https://www.facebook.com/18MillionRising.org/photos/a.2108933462471549/2108933695804859/?type=3&theater"><img src="../static/images/2018-guide/nov/18MR_VoterGuide_IG_1.jpg"></a>
 		<p><b>The Veterans and Affordable Housing Act: YES  &#10004; </b></p>
 		<p> </p>
 <p>Allows the state to issue $4 billion in general bonds to fund affordable housing programs and projects for low-income Californians, farmworkers, and veterans.</p>
 	</li>
-	<li><a href=""><img src="../static/images/2018-guide/nov/18MR_VoterGuide_IG_2.jpg"></a>
+	<li><a href="https://www.facebook.com/18MillionRising.org/photos/a.2108933462471549/2108933672471528/?type=3&theater"><img src="../static/images/2018-guide/nov/18MR_VoterGuide_IG_2.jpg"></a>
 		<p><b>Housing Bond for Homelessness: YES  &#10004; </b></p>
 		<p>Allows the state to use $2 billion in bonds to build permanent supportive housing with mental health services for the homeless. It aims to address the housing needs of CA’s chronically homeless population.</p>
 	</li>
-	<li><a href="https://facebook.com/18MillionRising.org/photos/a.1890253707672860.1073741838.454301294601449/1890253907672840/?type=3&theater"><img src="../static/images/2018-guide/nov/18MR_VoterGuide_IG_3.jpg"></a>
+	<li><a href="https://www.facebook.com/18MillionRising.org/photos/a.2108933462471549/2108933809138181/?type=3&theater"><img src="../static/images/2018-guide/nov/18MR_VoterGuide_IG_3.jpg"></a>
 		<p><b>Funding Water Supply, Quality, and Water Infrastructure: YES  &#10004; </b></p>
 		<p>Allows the state to borrow $8.8 billion in general bonds to fund safe drinking water, water-supply infrastructure, watershed protection and restoration. The proposal also provides extensive benefits and priority to disadvantaged communities and economically distressed areas. 
 </p>
 	</li>
-	<li><a href="https://facebook.com/18MillionRising.org/photos/a.1890253707672860.1073741838.454301294601449/1890253801006184/?type=3&theater"><Img src="../static/images/2018-guide/nov/18MR_VoterGuide_IG_4.jpg"></a>
+	<li><a href="https://www.facebook.com/18MillionRising.org/photos/a.2108933462471549/2108933759138186/?type=3&theater"><Img src="../static/images/2018-guide/nov/18MR_VoterGuide_IG_4.jpg"></a>
 		<p><b>Children’s Hospital Bond: YES  &#10004; </b></p>
 		<p>Allows the state to borrow $1.5 billion to fund grants for capital improvements, including construction, expansion, renovation and equipping for qualifying children’s hospitals.</p>
 	</li>
-	<li><a href="https://facebook.com/18MillionRising.org/photos/a.1890253707672860.1073741838.454301294601449/1890253844339513/?type=3&theater"><img src="../static/images/2018-guide/nov/18MR_VoterGuide_IG_5.jpg"></a>
+	<li><a href="https://www.facebook.com/18MillionRising.org/photos/a.2108933462471549/2108933925804836/?type=3&theater"><img src="../static/images/2018-guide/nov/18MR_VoterGuide_IG_5.jpg"></a>
 		<p><b>Property Tax Transfer: NO &#x2718; </b></p>
 		<p>Will result in loss in revenue of over $2 billion for schools and social services. Allows homeowners 55 or older to transfer their property tax discount to their new home anywhere in the state, no matter the new home's market value or number of moves. </p>
 	</li>
-<li><a href="https://facebook.com/18MillionRising.org/photos/a.1890253707672860.1073741838.454301294601449/1890253844339513/?type=3&theater"><img src="../static/images/2018-guide/nov/18MR_VoterGuide_IG_6.jpg"></a>
+<li><a href="https://www.facebook.com/18MillionRising.org/photos/a.2108933462471549/2108933889138173/?type=3&theater"><img src="../static/images/2018-guide/nov/18MR_VoterGuide_IG_6.jpg"></a>
 		<p><b>Gas Tax Repeal: NO &#x2718;</b></p>
 		<p>Overturns the 2017 car fee and gas tax that pays for repairs and improvements to local roads, state highways, and public transportation (including transit, bicycle and pedestrian projects). If passed, the state would lose up to $5 billion per year. </p>
 	</li>
-	<li><a href="https://facebook.com/18MillionRising.org/photos/a.1890253707672860.1073741838.454301294601449/1890253844339513/?type=3&theater"><img src="../static/images/2018-guide/nov/18MR_VoterGuide_IG_7.jpg"></a>
+	<li><a href="https://www.facebook.com/18MillionRising.org/photos/a.2108933462471549/2108933545804874/?type=3&theater"><img src="../static/images/2018-guide/nov/18MR_VoterGuide_IG_7.jpg"></a>
 		<p><b>Daylight Savings: NEUTRAL </b></p>
 		<p>Gives the state legislature the power to switch the state to permanent daylight savings time, but only if Congress approves.</p>
 	</li>
-	<li><a href="https://facebook.com/18MillionRising.org/photos/a.1890253707672860.1073741838.454301294601449/1890253844339513/?type=3&theater"><img src="../static/images/2018-guide/nov/18MR_VoterGuide_IG_8.jpg"></a>
+	<li><a href="https://www.facebook.com/18MillionRising.org/photos/a.2108933462471549/2108933542471541/?type=3&theater"><img src="../static/images/2018-guide/nov/18MR_VoterGuide_IG_8.jpg"></a>
 		<p><b>Dialysis Regulation & Price Control: YES  &#10004;</b></p>
 		<p>Limits the amount outpatient kidney dialysis clinics may charge for patient care and imposes penalties for excessive charges. Prohibits clinics from discriminating against patients based on the source of payment.</p>
 	</li>
-	<li><a href="https://facebook.com/18MillionRising.org/photos/a.1890253707672860.1073741838.454301294601449/1890253844339513/?type=3&theater"><img src="../static/images/2018-guide/nov/18MR_VoterGuide_IG_10.jpg"></a>
+	<li><a href="https://www.facebook.com/18MillionRising.org/photos/a.2108933462471549/2108933565804872/?type=3&theater"><img src="../static/images/2018-guide/nov/18MR_VoterGuide_IG_10.jpg"></a>
 		<p><b>Expand Rights to Pass Local Rent Control: YES  &#10004;</b></p>
 		<p>Repeals the Costa Hawkins state law and allows local government authorities the choice and ability to enact rent control measures on <b>single family homes,</b> and residential units built after 1995. This proposal would help address the rising rent costs and housing affordability crisis in California.
 <Br><br>
@@ -80,12 +80,12 @@ This November, we have the power to build towards this vision and reinvest in ou
 		</p>
 
 	</li>
-	<li><a href="https://facebook.com/18MillionRising.org/photos/a.1890253707672860.1073741838.454301294601449/1890253844339513/?type=3&theater"><img src="../static/images/2018-guide/nov/18MR_VoterGuide_IG_11.jpg"></a>
+	<li><a href="https://www.facebook.com/18MillionRising.org/photos/a.2108933462471549/2108933685804860/?type=3&theater"><img src="../static/images/2018-guide/nov/18MR_VoterGuide_IG_11.jpg"></a>
 		<p><b>Ambulance Worker Break Rules: NO &#x2718;</b></p>
 		<p>Requires private-sector emergency ambulance employees to remain on call during work breaks; exempts employers from potential liability for violations of labor laws. 
 </p>
 	</li>
-	<li><a href="https://facebook.com/18MillionRising.org/photos/a.1890253707672860.1073741838.454301294601449/1890253844339513/?type=3&theater"><img src="../static/images/2018-guide/nov/18MR_VoterGuide_IG_12.jpg"></a>
+	<li><a href="https://www.facebook.com/18MillionRising.org/photos/a.2108933462471549/2108933785804850/?type=3&theater"><img src="../static/images/2018-guide/nov/18MR_VoterGuide_IG_12.jpg"></a>
 		<p><b>New Standards for Confinement of Farm Animals: NEUTRAL</b></p>
 		<p>Requires pork and veal sold in CA be produced without restrictive crates, and that eggs produced cage-free. Establishes specific square footage requirements for confinement of farm animals.</p>
 	</li>
